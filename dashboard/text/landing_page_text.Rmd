@@ -1,0 +1,25 @@
+---
+output: 
+  html_document:
+    theme: null
+---
+
+**About**
+
+# About
+
+Appropriate collections of biological samples are crucial for understanding fish life history and population dynamics needed for sustainable fisheries management. These samples provide estimates of length at age, growth rates, longevity, aspects of reproduction (size and age at maturity, fecundity, spawning season), and mortality. This information is used to inform stock assessments, including those that use a data-poor approach. Life history information is also important to local management agencies when setting size limits and closed seasons to protect fish while they are spawning and ultimately increase fish population productivity. Finally, fish life history is expected to change in response to climate change; therefore, providing baseline information under current conditions is needed to document and understand future impacts.
+
+Pacific Islands Fisheries Science Center, Life History Program samples insular fish species in the U.S. Pacific jurisdictions via the Commercial Fisheries Biosampling Programs (CFBS) and NOAA Life History Program research surveys. This dashboard summaries our biosampling collections to date for Guam, The Common Wealth of the Northern Mariana Islands (CNMI), and American Samoa. For more information please see the full biosamling inventory report available at: <https://repository.library.noaa.gov/view/noaa/45018>.
+
+<br>
+
+*This dashboard is developed by Eva Schemmel (NOAA PIFSC LHP). Biosampling data presented is a subset of the data and has been filtered to remove any identifying information as specified for fisheries dependent data.*
+
+
+
+**Contact:**
+
+Eva Schemmel (NOAA PIFSC FRMD LHP)  eva.schemmel@noaa.gov
+
+

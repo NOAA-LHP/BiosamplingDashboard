@@ -1,0 +1,73 @@
+/* image resizing for banner img */
+  img.banner {
+    display:block;
+    max-width: 100%;
+    width: auto;
+    margin-bottom: 1rem;
+  }
+
+/* box title styling */
+  .intro_box_title span {
+    display: flex;
+    gap: 0.4rem;
+  }
+
+/* top nav bar */
+  .skin-blue .main-header .navbar {
+    background-color: #002364; /* dark sage green */
+
+/* sidebar toggle hover*/
+  .skin-blue .main-header .navbar .sidebar-toggle:hover {
+    background-color: #1EBEC7; /* dark sage green */
+    
+
+/* top header (left corner) */
+  .skin-blue .main-header .logo {
+    background-color: #002364; /* dark sage green */
+  }
+
+/* top header (left corner) hover */
+  .skin-blue .main-header .logo:hover {
+    background-color: #00797F; /* burnt orange */
+  }
+
+/* side bar background */
+  .skin-blue .left-side, .skin-blue .main-sidebar, .skin-blue .wrapper {
+    background-color: #E9F3F6; /* dark sage green */
+  }
+
+/* menu items hover */
+  .skin-blue .sidebar-menu > li.active > a, .skin-blue .sidebar-menu > li.menu-open > a, .skin-blue .sidebar-menu > li:hover > a {
+    background: #cb9e72; /* light burnt orange */
+  }
+
+/* sidebar text color */
+  .skin-blue .sidebar a {
+    color: #323C46; /* gray */
+  }
+
+/* box header colors */
+  .box-header {
+    color: #444; /*444*/
+      background-color: #fff;
+      display: block;
+    padding: 10px;
+    position: relative;
+  }
+
+/* highlighted tab color */
+  .nav-tabs-custom>.nav-tabs>li.active {
+    border-top-color: #3C7278; /* dark sage green */
+  }
+
+/* tabset panel (not selected) */
+  #dashboard_tabsetPanel a {
+  color: #fff !important;
+  background-color: #7EA6AB; /* light sage green */
+  font-size: medium;
+}
+
+/* tabset panel (selected) */
+  #dashboard_tabsetPanel > li.active > a {
+  background: #3C7278;
+  }
