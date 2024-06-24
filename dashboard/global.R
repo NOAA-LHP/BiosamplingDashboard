@@ -36,7 +36,7 @@ library(doParallel)
 
 
 
-data <- read.csv("data/all_samples_2_2024_commonname_noSI.csv") 
+data <- read.csv("~/Documents/github/BiosamplingDashboard/dashboard/data/all_samples_2_2024_commonname_noSI.csv") 
 data<-data[complete.cases(data$ScientificName),] 
 unique(data$Month)
 data$Month<-as.character(data$Month)

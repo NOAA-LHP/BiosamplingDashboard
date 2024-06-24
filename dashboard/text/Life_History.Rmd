@@ -28,15 +28,15 @@ output:
 
 **Mariana Islands**
 
-![Available age, growth, reproductive maturity, and natural mortality information for BMUS in Guam.](media/Guam_safeLH.png){width="800"}
+![Available age, growth, reproductive maturity, and natural mortality information for BMUS in Guam.](~/Documents/github/BiosamplingDashboard/dashboard/www/media/Guam_safeLH.png){width="800"}
 
 <br>
 
-![Available age, growth, reproductive maturity, and natural mortality information for BMUS in CNMI.](media/CNMI_safeLH.png){width="800"}
+![Available age, growth, reproductive maturity, and natural mortality information for BMUS in CNMI.](~/Documents/github/BiosamplingDashboard/dashboard/www/media/CNMI_safeLH.png){width="800"}
 
 <br>
 
-![](media/gindai.jpg){width="200"} **Gindai (*Pristipomoides zonatus*)**
+![](~/Documents/github/BiosamplingDashboard/dashboard/www/media/gindai.jpg){width="200"} **Gindai (*Pristipomoides zonatus*)**
 
 Updates to gindai life history are continuing with additional sampling and updates to the 2021 life history assessment. Ginadi are moderately long lived, with maximum age recorded of 30 years in Guam. Males obtain a larger average size and a larger asymptotic size (+3.03 cm, 1.2 inches) fork length (FL) than females. Gindai have a long spawning season and spawn often, suggesting high reproductive output.
 
@@ -50,7 +50,7 @@ Highlights
 
 <br>
 
-![](media/VALO_2_together.png){width="200"} **Yellow-Edged Lyretail (*Variola louti*)**
+![](~/Documents/github/BiosamplingDashboard/dashboard/www/media/VALO_2_together.png){width="200"} **Yellow-Edged Lyretail (*Variola louti*)**
 
 Groupers (Family Epinephelidae) are important to commercial, subsistence, and recreational fisheries throughout the world. Grouper species have complex life histories that make them more vulnerable to exploitation. Age, growth, and reproduction were assessed from fishery-dependent samples collected around Guam from 2010 to 2017.
 
@@ -64,7 +64,7 @@ Highlights Size ranged from 19.4 to 49.7 cm. (7.6 – 19.6 inches) FL.
 
 <br>
 
-![](media/PRAU_photo.png){width="200"} **Yellowtail Kalekale, Goldenflag Snapper (*Pristipomoides auricilla*)**
+![](~/Documents/github/BiosamplingDashboard/dashboard/www/media/PRAU_photo.png){width="200"} **Yellowtail Kalekale, Goldenflag Snapper (*Pristipomoides auricilla*)**
 
 Goldenflag jobfish are younger in fished areas (Guam and Saipan) compared to unfished areas in the Northern Marianas Islands. Maximum age in the Marianas found to date is 32 years, however the oldest individual from around Guam was only 10 years. The reproduction is currently being assessed. There is a long spawning season from spring through summer with spawning occurring every few days during the spawning season. 
 
@@ -78,23 +78,23 @@ Highlights
 
 **American Samoa**
 
-![Available age, growth, reproductive maturity, and natural mortality information for BMUS in American Samoa.](media/ASamoa_safeLH.png){width="800"}
+![Available age, growth, reproductive maturity, and natural mortality information for BMUS in American Samoa.](~/Documents/github/BiosamplingDashboard/dashboard/www/media/ASamoa_safeLH.png){width="800"}
 
 <br>
 
 **Hawaiʻi**
 
-![Available age, growth, reproductive maturity, and natural mortality information for BMUS in Hawaii.](media/Hawaii_safeLH.png){width="800"}
+![Available age, growth, reproductive maturity, and natural mortality information for BMUS in Hawaii.](~/Documents/github/BiosamplingDashboard/dashboard/www/media/Hawaii_safeLH.png){width="800"}
 
 <br>
 
-![](media/PRFI.png){width="200"} **ʻŌpakapaka (*Pristipomoides filamentosus*)**
+![](~/Documents/github/BiosamplingDashboard/dashboard/www/media/PRFI.png){width="200"} **ʻŌpakapaka (*Pristipomoides filamentosus*)**
 
 ʻŌpakapaka is assessed and managed as part of a seven species bottomfish complex called the Deep-7. Age, growth, and reproduction were assessed from fishery-dependent samples collected from the Northwest and Main Hawaiian Islands. Life history information is currently being updated for this species since updates in otolith processing and ageing have improved the ageing for this species.
 
 <br>
 
-![](media/onaga_gonad.jpeg){width="200"} **Onaga (*Etelis coruscans*)**
+![](~/Documents/github/BiosamplingDashboard/dashboard/www/media/onaga_gonad.jpeg){width="200"} **Onaga (*Etelis coruscans*)**
 
 Onaga reproduction was recently published and is result of a collaborative project between fishers, restaurants, and the Life History Program. The size at maturity was found to be around 65.8 cm (25 inches) with a spawning season from September through December.
 

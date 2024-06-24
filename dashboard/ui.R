@@ -42,22 +42,16 @@ ui <- dashboardPage(
                                                        h3("Choose a species:"),
                                                        column(4,
                                                               wellPanel(
-                                                                pickerInput("Species",
-                                                                            "Island",
+                                                                pickerInput("Species", 
                                                                             choices = unique(species_list),
                                                                             selected = c("Aphareus rutilans")))),
-                                                       column(4,
-                                                              wellPanel(
-                                                                pickerInput("Name",
-                                                                            "Common Name",
-                                                                            choices = unique(common_list),
-                                                                            selected = c("SILVERMOUTH")))),
+                                                    
                                                         fluidRow(
                                                          
                                                          column(width = 12,
-                                                                uiOutput("text_summary_Guam"))),
+                                                                uiOutput("data_text_guam"))),
                                                          column(width = 12,
-                                                                plotOutput("four_panel_plot_G")))))),
+                                                                plotOutput("inventory_plot")))))),
                                                     
                                         
                                         

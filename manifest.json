@@ -1,0 +1,133 @@
+{
+  "version": 1,
+  "locale": "en_US",
+  "platform": "4.2.1",
+  "metadata": {
+    "appmode": "static",
+    "primary_rmd": null,
+    "primary_html": "dashboard/text/landing_page_text.html",
+    "content_category": null,
+    "has_parameters": false
+  },
+  "packages": null,
+  "files": {
+    "aesthetics/create_theme.R": {
+      "checksum": "613bea0cbc64a9fb38305ba280086841"
+    },
+    "dashboard/.DS_Store": {
+      "checksum": "b50adb23a53fdaf67fd8850a41267dd5"
+    },
+    "dashboard/data/.DS_Store": {
+      "checksum": "194577a7e20bdcc7afbb718f502c134c"
+    },
+    "dashboard/data/all_samples_2_2024_commonname_noSI.csv": {
+      "checksum": "22a573551b844c41e47a865ceb00f5a5"
+    },
+    "dashboard/global.R": {
+      "checksum": "18563028c8b613b8f20ec53cc65976d0"
+    },
+    "dashboard/rsconnect/.DS_Store": {
+      "checksum": "194577a7e20bdcc7afbb718f502c134c"
+    },
+    "dashboard/server.R": {
+      "checksum": "faee4eba169e6ce561201eaf0b289566"
+    },
+    "dashboard/text/.DS_Store": {
+      "checksum": "194577a7e20bdcc7afbb718f502c134c"
+    },
+    "dashboard/text/CNMI_inventory.Rmd": {
+      "checksum": "3931e12e70b7ab10ca4aa31346e081f7"
+    },
+    "dashboard/text/guam_inventory.Rmd": {
+      "checksum": "c8cf5bbe016dba8eddd17069f844a4af"
+    },
+    "dashboard/text/images/crcp_logo.jpg": {
+      "checksum": "ef2036518df7186371ff2f1fd54c6b07"
+    },
+    "dashboard/text/images/partners_logos.png": {
+      "checksum": "41900afdf4146d0eff3406ba3f193b37"
+    },
+    "dashboard/text/landing_page_text.html": {
+      "checksum": "65aedcfc6280d79adbc6740e61253a90"
+    },
+    "dashboard/text/landing_page_text.Rmd": {
+      "checksum": "a3965aa442fa546c907a8671b33c5888"
+    },
+    "dashboard/text/Life_History.html": {
+      "checksum": "4679192e6e724deef3553690eb317eae"
+    },
+    "dashboard/text/Life_History.Rmd": {
+      "checksum": "dd7a11f92be7f7e24500fb9a414d853c"
+    },
+    "dashboard/ui_OLD.R": {
+      "checksum": "af499899d66f8b027176fe250b540e39"
+    },
+    "dashboard/ui.R": {
+      "checksum": "6950cdc8402b60c6f5cef6e829a273ae"
+    },
+    "dashboard/www/.DS_Store": {
+      "checksum": "d725c8f0503c89e7c64c3b7843a29081"
+    },
+    "dashboard/www/media/.DS_Store": {
+      "checksum": "194577a7e20bdcc7afbb718f502c134c"
+    },
+    "dashboard/www/media/ASamoa_safeLH.png": {
+      "checksum": "54c3b47dc14b2c88354bdaae0725973d"
+    },
+    "dashboard/www/media/CNMI_safeLH.png": {
+      "checksum": "8a8d5d0cea0610357661f28383314211"
+    },
+    "dashboard/www/media/ehu.png": {
+      "checksum": "49037db3beac58db6cdc923f59d66c68"
+    },
+    "dashboard/www/media/Gindai.jpg": {
+      "checksum": "2a180e6d0e235c38fd4cf94e1297c627"
+    },
+    "dashboard/www/media/Guam_safeLH.png": {
+      "checksum": "1e79343a7138f97be0802d020226baf2"
+    },
+    "dashboard/www/media/Hawaii_safeLH.png": {
+      "checksum": "0154c508838eb690f562feec95429259"
+    },
+    "dashboard/www/media/MUFL_school.jpg": {
+      "checksum": "a422a289c1028eb8da22c7acda8896c8"
+    },
+    "dashboard/www/media/onaga_gonad.jpeg": {
+      "checksum": "2d76158681c6949efd9e5de19474152d"
+    },
+    "dashboard/www/media/onaga_gonad.jpg": {
+      "checksum": "784e146b5ba8607bc4355c26eb503aa6"
+    },
+    "dashboard/www/media/PABA_photo.jpg": {
+      "checksum": "81949b9d09fe49e130317283caff2bea"
+    },
+    "dashboard/www/media/paba.jpeg": {
+      "checksum": "2ec091a0e5aad0d046dc45fd6da24cf8"
+    },
+    "dashboard/www/media/PRAU_photo.png": {
+      "checksum": "1102a8227aeb306a1bc532bb21cc1e95"
+    },
+    "dashboard/www/media/PRFI.png": {
+      "checksum": "1d88dfffb86b25112b5d64971545aebf"
+    },
+    "dashboard/www/media/PRZO.png": {
+      "checksum": "94d09fa639cd1e57928a5b4f20480d09"
+    },
+    "dashboard/www/media/VALO_2_together.png": {
+      "checksum": "6fc8986263dab9aef0d8a4d820f006c6"
+    },
+    "dashboard/www/styles_test.css": {
+      "checksum": "6902b0ba6ecf254e7e0148e8b84ca92d"
+    },
+    "dashboard/www/styles.css": {
+      "checksum": "4210ad800b612cadecbc39a704cecb81"
+    },
+    "dashboard/www/templates/styles_sam.css": {
+      "checksum": "701a4ec548db20ba543f2359f3393514"
+    },
+    "README.md": {
+      "checksum": "e5d61a2d963c6a00585c6bd669eafced"
+    }
+  },
+  "users": null
+}
